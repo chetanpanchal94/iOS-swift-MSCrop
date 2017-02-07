@@ -1,7 +1,7 @@
 iOS-Swift-MSCrop
 ===================
 
-A view allowing user to specify a square or circle area in an image for cropping. The user can drag, resize it, move the entire bounding box, or use 2 fingers like a pinch gesture to move and resize square or circle area. 
+A view allowing user to specify a square or circle area in an image for cropping. The user can drag, resize it, move the entire area or use 2 fingers like a pinch gesture to move and resize square or circle area. 
 
 Screenshot
 ===================
