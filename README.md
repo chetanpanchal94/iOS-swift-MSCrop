@@ -7,7 +7,7 @@ Screenshot
 ===================
 
 Square
-![alt text](https://github.com/chetanpanchal94/iOS-swift-MSCrop/blob/master/MSCropScreenshot.png)
+![alt text](https://github.com/chetanpanchal94/iOS-swift-MSCrop/blob/master/MSCropViewSquare.png)
 
 Circle
 ![alt text](https://github.com/chetanpanchal94/iOS-swift-MSCrop/blob/master/MSCropRoundedScreenshot.png)
