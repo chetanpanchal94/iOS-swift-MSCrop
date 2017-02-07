@@ -27,12 +27,13 @@ class ViewController: UIViewController {
     {
         super.viewDidLoad()
         self.view.layoutIfNeeded()
-
+        
+        //msCropView.isRounded = true
         msCropView.setup(image: #imageLiteral(resourceName: "IMG.jpg"))
     }
 }
 
-For circular cropping cropping set isRounded property to true.
+For circular cropping set isRounded property to true.
 
 License
 ===================
