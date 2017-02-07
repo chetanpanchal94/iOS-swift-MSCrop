@@ -35,6 +35,8 @@ class ViewController: UIViewController {
 
 For circular cropping set isRounded property to true.
 
+For cropping image double-tap on crop area.
+
 License
 ===================
 
