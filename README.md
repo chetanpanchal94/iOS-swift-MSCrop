@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         self.view.layoutIfNeeded()
         
         //msCropView.isRounded = true
-        msCropView.setup(image: #imageLiteral(resourceName: "IMG.jpg"))
+        msCropView.setup(image: "yourImage"))
     }
 }
 
